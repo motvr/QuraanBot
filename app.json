@@ -26,11 +26,6 @@
         "description": "~ اكتب توكن البوت .",
         "value": "",
         "required": true
-      },
-      "UPSTREAM_REPO": {
-        "description": "~  لاتغيرها أبدا .",
-        "value": "https://github.com/motvr/QuraanBot.git",
-        "required": true
       }
     },
     "buildpacks": [
