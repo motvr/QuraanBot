@@ -1,7 +1,7 @@
 from Almortagel import BOT_TOKEN, API_ID, API_HASH,
 
-API_ID: int = API_HASH
-API_HASH: str = "API_ID"
+API_ID: int = ("API_HASH")
+API_HASH: str = ("API_ID")
 BOT_TOKEN: str = (
     "BOT_TOKEN"  # ▶️GET IT FROM @BotFather ON TELEGRAM ◀
 )
