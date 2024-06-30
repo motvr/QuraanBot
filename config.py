@@ -1,7 +1,9 @@
-API_ID: int = 25611385
-API_HASH: str = "554bd8ef864e807884fe9ba48536e6b2"
+from Almortagel import BOT_TOKEN, API_ID, API_HASH,
+
+API_ID: int = API_HASH
+API_HASH: str = "API_ID"
 BOT_TOKEN: str = (
-    "YOUR_BOT_TOKEN"  # ▶️GET IT FROM @BotFather ON TELEGRAM ◀
+    "BOT_TOKEN"  # ▶️GET IT FROM @BotFather ON TELEGRAM ◀
 )
 db_path: str = "source/database/db.json"  # ⚠ DON'T CHANGE THIS ⚠
 owner_id: int = 6424121052 # YOUR TELEGRAM ID
